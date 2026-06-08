@@ -25,7 +25,6 @@ The learning materials and datasets used in this repository are drawn from:
 **[Mathematics for Machine Learning and Data Science Specialization / Statistics with R]**
 - Platform: [Coursera](https://www.coursera.org)
 - Institution: Imperial College London
-- Educators: *(add educator names here)*
 Full credit goes to Coursera, Imperial College London, the course educators, and the original dataset providers. All datasets used here are publicly available and used solely for educational purposes.
  
 ---
@@ -84,7 +83,7 @@ All analyses are conducted in **R**. Key packages used include:
 - `ggplot2` — plotting
 - `dplyr` — data wrangling
 - `stats` — base R regression functions
-- `broom` — tidy model outputs
+- 
 - *(additional packages listed as analyses progress)*
 ---
  
@@ -120,6 +119,7 @@ All constructive feedback is genuinely appreciated.
 I am a life scientist with an MSc in Drug Design and Biomedical Science (Edinburgh Napier University) and an MSc in Industrial Biotechnology (Sardar Patel University). My research background spans nanomedicine, drug delivery, and biomarker analysis. I am building my computational skills to support future research in biomedical data science.
  
 - GitHub: [pinkesh3026](https://github.com/pinkesh3026)
+- LinkedIn: [pinkesh2608](https://www.linkedin.com/in/pinkesh2608/)
 ---
  
 ## License
