@@ -206,4 +206,12 @@ Cox proportional hazards regression
 
 ---
 
+---
+
+## Note on AI Assistance
+
+All analyses in this repository were performed independently as part of the Coursera course — including writing the R scripts, running the models, and generating the graphs. After completing the analysis, Claude (Anthropic) was used to help improve the presentation of this repository: cleaning up script formatting, adding comments for clarity, writing the README, and producing the interpretations file. The analytical decisions, code logic, and results are my own work.
+
+---
+
 *Learning initiative — Pinkesh Patel | 2026*
